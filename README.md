@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simon Mowlam
+- 👀 I’m interested in manual and automated software testing
+- 🌱 I’m currently learning Python and JavaScript
+- 📫 I can be reached on email: simon.mowlam@gmail
